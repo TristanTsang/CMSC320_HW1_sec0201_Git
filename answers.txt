@@ -7,3 +7,7 @@ It also helps with collaboration amongst many people in which people can track t
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: It can be applied to basketball. Analysts can determine a player's contribution to a team and play style based off of metrics such as points per game, rebounds per game, value over replacement, offensive rating, etc. This helps coaches decide which players to draft and trade, and it helps players to refine their game.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging creates a new commit combining the merge history of two branches. Rebasing rewrites the commit history to a specific branches'.
