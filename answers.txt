@@ -3,3 +3,7 @@ Q1: Why might we consider using Git?
 Answer: As a tool to keep track of small focused changes over time (commits) that we can save/undo. 
 It also helps with collaboration amongst many people in which people can track their own commits and the team can then decide whether to accept/deny them to product.
 
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: It can be applied to basketball. Analysts can determine a player's contribution to a team and play style based off of metrics such as points per game, rebounds per game, value over replacement, offensive rating, etc. This helps coaches decide which players to draft and trade, and it helps players to refine their game.
