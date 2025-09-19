@@ -11,3 +11,7 @@ Answer: It can be applied to basketball. Analysts can determine a player's contr
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging creates a new commit combining the merge history of two branches. Rebasing rewrites the commit history to a specific branches'.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning more data science skills to hopefully apply them to machine learning!
